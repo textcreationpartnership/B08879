@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupids kindness to constant coridon, or, [F]air Silvia vvounded dart when beauties bright, young men can fight, and seek their overthrow, .  Then Cupids darts must would their hearts, he will not leave them so.  Tune of Charon makeshaft &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08879</idno>
+            <idno type="STC">Wing C7604</idno>
+            <idno type="STC">ESTC R232971</idno>
+            <idno type="EEBO-CITATION">69648583</idno>
+            <idno type="OCLC">ocm 69648583</idno>
+            <idno type="VID">184893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184893)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2879:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupids kindness to constant coridon, or, [F]air Silvia vvounded dart when beauties bright, young men can fight, and seek their overthrow, .  Then Cupids darts must would their hearts, he will not leave them so.  Tune of Charon makeshaft &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Back at the Black Boy near the Draw-Bridge on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685 and 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cupid (Roman deity) --  Early works to 1800.</term>
+               <term>Love poetry, English --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184893:1"/>
+            <head>CUPID<hi rend="sup">S</hi> Kindneſs to Conſtant CORIDON, OR, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air SILVIA VVoun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with a Dart.</head>
+            <argument>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Beauties bright, Young men can ſight,</l>
+               <l>and ſeek their overthrow,</l>
+               <l>Then Cupid's Darts muſt wound their hearts,</l>
+               <l>he will not leave them ſo.</l>
+            </argument>
+            <opener>Tune of <hi>Charon</hi> make haſt &amp;c.</opener>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>This may be Printed</p>
+                  <closer>
+                     <signed>R. P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <figure>
+                  <figDesc>depiction of Cupid</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a lady</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Ilvia</hi> the Fair by the ſide of a River,</l>
+               <l>where ſhe ſat combing her Golden hair,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pid</hi> he drew forth a Dart from his Quiver,</l>
+               <l>and without pitty he ſmites her there;</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w when ſhe f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le her heart was wounded,</l>
+               <l>ſtrait cryed with voice both ſoft an ſhrill,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſudden change has my freedom confounded?</l>
+               <l>
+                  <hi>why muſt I love now againſt my Will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Often in Valleys young <hi>Corridon</hi> courted me,</l>
+               <l>yet I lookt on him with ſcornful Eyes;</l>
+               <l>But now ſtrange Raptures of love has tranſported me,</l>
+               <l>which does my ſences and ſoul ſurpri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>This very Minute, time, and Seaſon,</l>
+               <l>ſorrow and Grief my heart doth fill,</l>
+               <l>Here I admire what ſhould be the reaſon,</l>
+               <l>
+                  <hi>that I muſt love him againſt my Will.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:184893:1"/>
+            <p>
+               <figure>
+                  <figDesc>lady</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>gentleman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>I w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s reſolved to live and dye ſingle,</l>
+               <l>tho' I had Suitors alwaies in ſtore,</l>
+               <l>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t e'ry vein in my heart does now tingle</l>
+               <l>tho like I never did feel before,</l>
+               <l>I had to love a Dete<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tation,</l>
+               <l>the which does now my comfort ſpill;</l>
+               <l>This is a ſudden and ſtrange Alter<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion,</l>
+               <l>
+                  <hi>that I muſt love him againſt my Will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There was no Swain I cou'd ever admire;</l>
+               <l>all my delight was to live alone;</l>
+               <l>Therefore I'll triumph o're e ry deſire,</l>
+               <l>in love I will not be overthrown:</l>
+               <l>Let <hi>Cupid</hi> ſeem to frown and lower,</l>
+               <l>nay uſe his beſt and chiefeſt skill,</l>
+               <l>I will endeavour to baffle his power,</l>
+               <l>
+                  <hi>why ſhou'd I love him againſt my Will?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſtill her Paſſion encreaſed the ſtronger,</l>
+               <l>and her Swéet Beauty grew pale and wan</l>
+               <l>So that ſhe could not endure any longer,</l>
+               <l>but crying out my ſweet <hi>Corridon,</hi>
+               </l>
+               <l>May e'ry Bleſſing now betide thee,</l>
+               <l>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a fainting Lover Kill,</l>
+               <l>Altho' 'tis true, I have often deny'd thee,</l>
+               <l>
+                  <hi>now I muſt love thee againſt my will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If I ſhall dye for the loſs of my Iewel,</l>
+               <l>there is none but my ſelf in blame,</l>
+               <l>Sith to my <hi>Corridon</hi> I was too cruel,</l>
+               <l>when like a Captive to me he came</l>
+               <l>But for this Crime I have repented;</l>
+               <l>yet remain in ſorrows ſtill</l>
+               <l>With ſighs and Tears I have often lamented,</l>
+               <l>
+                  <hi>now I muſt love him againſt my Will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O that he heard but my ſorrowful Ditty,</l>
+               <l>likewiſe would come my ſweet Life to ſave</l>
+               <l>And with true Love and compaſſionate pitty,</l>
+               <l>pardon the frowns which to him I gave;</l>
+               <l>He could no longer ſtand to hear her,</l>
+               <l>but did approach with right good will,</l>
+               <l>To his fair <hi>Silvia</hi> in order to cheer her</l>
+               <l>
+                  <hi>vowing he would be her true love ſtill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thanks be to <hi>Cupid</hi> that gain'd me thy favour,</l>
+               <l>my drooping Spirits once more to raiſe,</l>
+               <l>Now do I promiſe to Love thée for ever,</l>
+               <l>and in theſe Valleys wee'll ſpend our days,</l>
+               <l>Can there be any greater bleſſing,</l>
+               <l>my wounded heart with joy to fill,</l>
+               <l>Then my fair <hi>Silvia,</hi> here to be poſſeſſing,</l>
+               <l>
+                  <hi>whom I do Love and admire ſtill.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> I. Back, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the</hi> Black Boy <hi>near the</hi> draw-bridge <hi>on</hi> London-Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
